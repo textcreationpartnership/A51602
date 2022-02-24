@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pious sermon preached by that late painfull and profitable minister of Gods word Humph. Munning, Rectour of Bretenham in the Countie of Suffolk.</title>
+            <author>Munning, Humphrey, d. 1624.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51602</idno>
+            <idno type="STC">Wing M3079</idno>
+            <idno type="STC">ESTC R218631</idno>
+            <idno type="EEBO-CITATION">99830205</idno>
+            <idno type="PROQUEST">99830205</idno>
+            <idno type="VID">34655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34655)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pious sermon preached by that late painfull and profitable minister of Gods word Humph. Munning, Rectour of Bretenham in the Countie of Suffolk.</title>
+                  <author>Munning, Humphrey, d. 1624.</author>
+               </titleStmt>
+               <extent>[4], 22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Roger Daniel, printer to the Universitie,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication dated: Bretenham, January, 1. 1619.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34655:1" rendition="simple:additions"/>
+            <pb facs="tcp:34655:1" rendition="simple:additions"/>
+            <p>A PIOUS SERMON, preached by that late painfull and profitable Miniſter of Gods word HUMPH. MUNNING, <hi>Rectour of</hi> BRETENHAM <hi>in the Countie of</hi> Suffolk.</p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>Roger Daniel,</hi> Printer to the Univerſitie. 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34655:2"/>
+            <pb facs="tcp:34655:2"/>
+            <head>To M<hi rend="sup">r</hi> WILLIAM COPINGER, Eſquire; <hi>and M<hi rend="sup">ris</hi>
+               </hi> MARY COPINGER, <hi>his beloved wife.</hi> Worſhipfull, my loving and very good friends in the Lord:</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I had preached this Sermon, ſome of ill will, I think, to draw me into the jealouſie and danger of the time, reported that I had meddled (I know not how) with the cere<g ref="char:EOLhyphen"/>monies of the Church. A very ſtrange thing, that meat, drink, apparell and paſtime (for theſe are the indifferent things that I meddle withall) ſhould ſound in any wiſe mans eare, as the ceremonies of the Church. But ſuch hearers we muſt ſometimes meet withall, who will offer like violence to our words and meaning, as Cacus did to Hercules his oxen. Wherefore being provoked by this wrong, I took a little pains to look over my notes again, and ſetting my memory a work with them, I wrote out the Ser<g ref="char:EOLhyphen"/>mon wholly and at large as here it is. Which when I had done, I ſaw nothing to the contrary therein (though I con<g ref="char:EOLhyphen"/>feſſe no great matter is to be ſeen in it) but that to ſome good minds (eſpecially if friendly and lovingly diſpoſed towards
+<pb facs="tcp:34655:3"/> the poore and contemptible authour) it might be of ſome good uſe unto true godlineſſe in this kind. And peradventure the preſumption of putting it into the hands of ſome ſuch per<g ref="char:EOLhyphen"/>ſons, might be as little ſinne, as the caſting of it aſide into ſome duſty corner with other waſte papers. Wherefore your ſelves being of ſuch deſerving towards me, as if there were any thing of worth in me, I muſt of neceſsity ow it to you; I am bold to put theſe papers (ſuch as they are) into your lo<g ref="char:EOLhyphen"/>ving hands: where if they do no other good, yet they ſhall teſtifie my thankfulneſſe towards you, and be ready to clear my innocencie in that ſuppoſed crime, when need requires.</p>
+            <p>God give you both, with a happy and bleſſed new yeare, all renewments of his grace and holy Spirit, to his glory in you, and your endleſſe comfort in him.</p>
+            <closer>
+               <dateline>
+                  <hi>Bretenham,</hi> 
+                  <date>January, <hi>1. 1619.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours, with his beſt and beſt deſerved affections, HUM. MUNNING.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:34655:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1. COR. 10. Verſ. 31.</hi>
+                  </bibl> Whether therefore ye eat or drink, or whatſo<g ref="char:EOLhyphen"/>ever ye do, do all to the glory of God.</q>
+               <q>
+                  <bibl>
+                     <hi>1. COR. 10. Verſ. 32.</hi>
+                  </bibl> Give none offence, neither to the Jews, nor to the Gentiles, nor to the Church of God:</q>
+               <q>
+                  <bibl>
+                     <hi>1. COR. 10. Verſ. 33.</hi>
+                  </bibl> Even as I pleaſe all men in all things, not ſeek<g ref="char:EOLhyphen"/>ing mine own profit, but the profit of many, that they may be ſaved.</q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>O diſcern things that differ</hi> (as the Apoſtle ſpeaketh, Phil. 1.10.) is a neceſſarie grace in a Chriſtian, and requireth true wiſdome indeed. But I am deceived, if the wiſdome and perſpiciency of a Chri<g ref="char:EOLhyphen"/>ſtian be not of as neceſſary uſe, and as much to be re<g ref="char:EOLhyphen"/>quired in indifferent things as in thoſe that differ. For in theſe things of a middle and indifferent nature, where we have no direct nor expreſſe commandment of God to over-rule us, but are left (after a ſort) to the libertie of our will: here we do commonly<note n="*" place="margin">Aut hae<g ref="char:EOLhyphen"/>ſitare, aut praecipita<g ref="char:EOLhyphen"/>re.</note> 
+               <hi>either go too ſlow, or too faſt:</hi> here zeal without knowledge, or knowledge without zeal, doth dangerouſly miſcarry us: here Satan, taking advantage either of our igno<g ref="char:EOLhyphen"/>rance or of ſome other corruption within us, doth ſet his traps for us; yea, here he makes one Chriſtian ſet a trap for another: here, for the moſt part, we are<note n="*" place="margin">Jactato<g ref="char:EOLhyphen"/>res liberta<g ref="char:EOLhyphen"/>tis.</note> 
+               <hi>boaſters of our liberty,</hi> carrying our ſelves too ſtrongly upon it, and ſee not that we are ſnared in it, and how Satan makes nets of indifferent things, wherein we are
+<pb n="2" facs="tcp:34655:4"/> eaſily taken, and hardly eſcape without ſome loſſe or hurt to our ſelves or others. Into this net, or toil, the devil had got the Chriſtian Corinthians, where with the over-free uſe of indifferent things, namely of <hi>meats ſacrificed to idoles,</hi> they did gore and wound the conſci<g ref="char:EOLhyphen"/>ences one of another. The Apoſtle therefore ſeeing their danger, and in theirs foreſeeing ours, doth take great pains to deliver them and us out of theſe briers; ſo great, as in no other point that I know, except the main of our <hi>juſtification by faith,</hi> he hath taken any greater: giving unto the Corinthians, and in them un<g ref="char:EOLhyphen"/>to us, with other inſtructions of like nature, certain generall rules, whereby a wiſe and good Chriſtian may walk ſafely in theſe things: neither to ſcrupulouſly tying up himſelf and others from the uſe of them al<g ref="char:EOLhyphen"/>together; nor yet looſely and diſſolutely abuſing his libertie in them, as an occaſion to the fleſh.</p>
+            <p>Of theſe generall rules this that I have read unto you is one, and the principall: it is the concluſion of the whole diſcourſe or diſputation about indifferent things, from the beginning of the eighth chapter. And it ſeemeth to me that the Apoſtle ſetteth it down by way of <hi>anticipation,</hi> thus: The Chriſtian Corin<g ref="char:EOLhyphen"/>thians, upon occaſion of that which the Apoſtle had urged before, might reply and ſay, Why, Sir, if there be ſuch danger in eating and drinking, feaſting and companie-keeping with our friends, and other things of this nature, that (as you ſay) God is provoked, and our ſouls endangered thereby; what ſhall we do? we had beſt utterly abſtain, and throw away our libertie that we ſeem to have in theſe things, for ever. To this reply of theirs the Apoſtle rejoyneth in theſe words.
+<pb n="3" facs="tcp:34655:4"/> Nay, (ſaith he) I ſay not ſo unto you: but if you will take it, I will give you a ſafe and ſure rule to walk by in theſe and all other like things. And that is this; <hi>Whether ye eat or drink, or whatſoever ye do, do all to the glory of God, and to the edification of your brethren.</hi> You are wiſe men and full of knowledge; uſe your wiſ<g ref="char:EOLhyphen"/>dome in the practiſe of this rule, conſider the circum<g ref="char:EOLhyphen"/>ſtances and eſpecially the end of all your actions, and do thereafter.</p>
+            <p>So we have here a Rule, or (as the Apoſtle calleth it Gal. 6.16.) <hi>a Canon</hi> for a Chriſtian to walk by in all his actions. And indeed it ſhould be the Rule of all rules, and the Canon of all canons, to rule and over-rule all that a Chriſtian doth in all things, and even in thoſe wherein he may ſeem to himſelf to be moſt at liberty, even in things of a middle and indifferent nature.</p>
+            <p>And here we have three things to conſider of. Firſt, the <hi>actions</hi> or <hi>things</hi> that are to be ruled. Secondly, the <hi>rule it ſelf,</hi> whereby they are to be ruled. And thirdly an <hi>example.</hi>
+            </p>
+            <p>The actions or things to be ruled are ſet down by a diſtribution: <hi>Whether ye eat, or drink, or whatſoever ye do.</hi> The Apoſtle doth inſtance in eating and drinking, becauſe they were the things in queſtion at that time. And yet leſt we ſhould think the rule to appertain one<g ref="char:EOLhyphen"/>ly to eating and drinking, he addeth the generall, <hi>Whatſoever elſe;</hi> to teach us that all our actions muſt fall under a rule.</p>
+            <p>The rule whereby theſe things are to be ruled, is the end. And that is double: firſt, <hi>the glory of God;</hi> ſecondly, <hi>the edification of our neighbour.</hi> The firſt is
+<pb n="4" facs="tcp:34655:5"/> ſet down in plain and expreſſe terms; <hi>Do all to the glo<g ref="char:EOLhyphen"/>ry of God.</hi> The ſecond is ſet down by a remotion of the contrary; <hi>Give no offence,</hi> cauſe none to fall or to ſtumble, no <hi>Jew,</hi> no <hi>Grecian,</hi> much leſſe any of the people and <hi>Church of God.</hi>
+            </p>
+            <p>The example is taken from himſelf: <hi>As in all things I pleaſe all men.</hi> In all things of this nature, in all in<g ref="char:EOLhyphen"/>different things, I do not ſo much reſpect mine own liberty or commodity, as how the action will fall out to others; not uſing my liberty or power in any thing, but where I may further the ſalvation of others thereby.</p>
+            <p>Now (to take theſe things as they ly in order) firſt concerning the actions or things to be ruled, they are (as we ſee) ſpecially eating and drinking, but in gene<g ref="char:EOLhyphen"/>rall all things whatſoever. For ſo the Apoſtle, <hi>Whe<g ref="char:EOLhyphen"/>ther ye eat or drink, or whatſoever ye do.</hi> From which generall words of the Apoſtle this generall doctrine doth ariſe unto us, namely, That all things whatſoever a Chriſtian man doth, muſt be done by a rule. And a Chriſtian hath no ſuch liberty, to do what he liſt, at leaſt, to do as he liſt in any thing. Though God hath given us great liberty in many things; yet no ſuch li<g ref="char:EOLhyphen"/>berty, as to be irregular or out of rule in any thing.</p>
+            <p>And the Scripture ſaith the ſame thing in other places, though in other terms. For that ſame <hi>integri<g ref="char:EOLhyphen"/>tie</hi> that God requireth of Abraham, <hi>to walk before him and be upright,</hi> the <hi>undefiledneſſe in the wayes of the Lord,</hi> that David ſpeaketh of in the Pſalmes, the <hi>ſin<g ref="char:EOLhyphen"/>ceritie</hi> and <hi>unblameableneſſe</hi> that the Apoſtles ex<g ref="char:EOLhyphen"/>hort unto otherwhere, <hi>Walking honeſtly and plea<g ref="char:EOLhyphen"/>ſing God in all things;</hi> what is all this, I ſay, but the
+<pb n="5" facs="tcp:34655:5"/> obſerving of a rule in all things that we do, as the A<g ref="char:EOLhyphen"/>poſtle here requireth.</p>
+            <p>And the beſt interpreters upon this place affirm ſo much.</p>
+            <p>
+               <note n="*" place="margin">Piſcator.</note>One ſaith, <hi>This ought to be the ſcope of all our acti<g ref="char:EOLhyphen"/>ons.</hi>
+               <note n="*" place="margin">Hemming</note> Another ſaith, <hi>Let this rule be obſerved in all things.</hi> And<note n="*" place="margin">Marlorat.</note> a third ſaith, <hi>No part of mans life, no action</hi> TAM MINUTA, <hi>not ſuch a minute, not ſuch a mi<g ref="char:EOLhyphen"/>nim of an action in a Chriſtian, but muſt be referred to this end.</hi>
+            </p>
+            <p>The generall will the better appear, if it be laid open in ſome particulars. And firſt in this wherein the Apoſtle inſtanceth; <hi>Whether ye eat or drink.</hi> What is more free, or wherein hath God given more liberty to man, then in eating and drinking? <hi>Every moving thing that liveth</hi> (ſaith God Gen. 9.3.) <hi>ſhall be meat for you; even as the green herb have I given you all things.</hi> And Deut. 12.20. <hi>If thou ſhalt ſay, I will eat fleſh (be<g ref="char:EOLhyphen"/>cauſe thy ſoul longeth to eat fleſh) thou mayeſt eat fleſh what<g ref="char:EOLhyphen"/>ſoever thy ſoul luſteth after.</hi> And the Apoſtle telleth us, 1. Tim. 4.4. <hi>Every creature of God is good, and nothing to be refuſed, if it be received with thanksgiving.</hi> And in this chapter, verſe 25. <hi>Whatſoever is ſold in the ſhambles, that eat, asking no queſtion for conſcience ſake.</hi>
+            </p>
+            <p>Behold here libertie enough! And bleſſed be God that (as M<hi rend="sup">r</hi> Calvin ſaith) <hi>we need not cat our meat with a doubtfull and fearfull conſcience.</hi> And to teach other<g ref="char:EOLhyphen"/>wiſe, were a doctrine of devils.</p>
+            <p>What then? For all this libertie, might a Jew therefore, during the time of the Leviticall law, have eaten of ſwines fleſh, or any other legally-unclean creature? No, you ſay, That was forbidden by the
+<pb n="6" facs="tcp:34655:6"/> Law, and therefore not indifferent. But I ſay, The thing was indifferent ſtill in its own nature, and the prohibition of the law was but a reſtriction in the uſe for a time.</p>
+            <p>Or what ſhall we ſay to that temporary exception in the Apoſtles time? Might a believing Gentile du<g ref="char:EOLhyphen"/>ring that time have eaten of things ſtrangled or of bloud? or may we now abuſe our libertie in eating and drinking (I do not ſay to ſurfetting and drunken<g ref="char:EOLhyphen"/>neſſe, but) to the breach of any honeſt and Godly politick law amongſt us? Nay, we ſee that notwith<g ref="char:EOLhyphen"/>ſtanding this great libertie in this matter, yet the Apo<g ref="char:EOLhyphen"/>ſtle doubteth not to give rules to our eating and drink<g ref="char:EOLhyphen"/>ing, and ſuch rules as do both reſtrain and limit the outward act, and alſo in ſome ſort do bind the conſci<g ref="char:EOLhyphen"/>ence, and make a man guilty of ſinne in the neglect of the ſame. So as notwithſtanding our libertie in eating and drinking, yet we may not be libertines therein.</p>
+            <q>Let us ſee the like in apparell.</q>
+            <p>
+               <hi>The fair,</hi> or (as Tremellius tranſlateth) <hi>the deſirable garments</hi> of Eſau, <hi>the parti-coloured coat</hi> that Jacob made for his ſonne Joſeph, <hi>the changes of rayment</hi> that Joſeph gave to his brethren, and <hi>the veſtures of divers colours</hi> that the kings daughters wore being virgins; all theſe do declare what liberty God hath given unto us in the uſe of apparell.<note place="margin">Nolo ut de ornamentis auri, vel veſtis, pro<g ref="char:EOLhyphen"/>peram ha<g ref="char:EOLhyphen"/>beas in prohiben<g ref="char:EOLhyphen"/>do ſenten<g ref="char:EOLhyphen"/>tiam.</note> A liberty that ſeemed ſo great to that learned Father Auguſtine, that he giveth this <hi>Item</hi> or <hi>Caveat</hi> to Poſſidonius about this matter, <hi>I will not</hi> (ſaith he) <hi>that you be very forward in cenſuring or judging any for their garments or ornaments of gold.</hi> And experience doth teach us every day, that as much grace is to be found under a gay coat, as under a gray one.</p>
+            <pb n="7" facs="tcp:34655:6"/>
+            <p>And yet for all this, when the daughters and ladies of Jeruſalem would keep no rule in their apparell, who knoweth not how ſharply the Prophet rebuketh them?<note place="margin">
+                  <hi>Iſai.</hi> 3.</note> Yea the Princes themſelves and the Kings children are threatned that God will puniſh them for being clothed with ſtrange apparell.<note place="margin">
+                  <hi>Zeph.</hi> 1.8.</note> And the holy Apoſtles, giving rules of ſobrietie in apparell to Chri<g ref="char:EOLhyphen"/>ſtian women, do teach us that all our actions and fa<g ref="char:EOLhyphen"/>ſhions in this matter muſt go by a rule. And I think all good minds do mourn, to ſee how out of all rule men and women are now adayes in all callings and conditions. I ſay, in all; I except not that which ſhould be an example of humilitie and Chriſtian ſo<g ref="char:EOLhyphen"/>brietie to all the reſt. Surely our pride doth teſtifie to our face, and we are too farre gone in affecting the mark of dignitie in our habits and apparell: which, beſides our ſinne againſt God and our Chriſtian rule, is alſo, as one cenſureth it (and I think, truly) a note of <hi>puſillanimitie</hi> and <hi>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe debilitie</hi> in our ſelves.</p>
+            <p>And to touch that a little, wherein men are moſt ir<g ref="char:EOLhyphen"/>regular: even the recreation of a Chriſtian (if any be at all) muſt be done by a rule. For if we muſt eat and drink by a rule, if we muſt apparell our ſelves by a rule: why muſt not our recreation be by a rule alſo?<note place="margin">
+                  <hi>Danaeus,</hi> de ludo alea, cap. <hi>1.</hi>
+               </note> 
+               <hi>Certainly, when the Apoſtle ſaith,</hi> WHATSOEVER ELSE YE DO, <hi>there is no remedie but play and paſtime muſt be comprehended in this generall,</hi> ſaith a great Divine.</p>
+            <p>I know what warres men are at in their judgements about this matter of play and paſtime: and I mean not to be a ſtickler between them at this time, further then my Text doth thruſt me in whether I will or no; and that is thus farre. Certainly either play muſt not be
+<pb n="8" facs="tcp:34655:7"/> uſed by a Chriſtian at all: or if it be, it muſt be done by a rule, yea by this rule, as all other things ought to be. And if any man think his paſtime an action not ſe<g ref="char:EOLhyphen"/>rious enough to hold proportion with the glory of God, let him take heed how he meddle with it: for how dare a Chriſtian divert or turn from this end in any thing that he doth?</p>
+            <p>And thus farre we have ſeen the generalitie of this doctrine laid open in certain particulars. Now one or two things for the uſe of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Firſt, it condemneth the unrulineſſe of theſe times, wherein men are become very libertines, though not in profeſſion, yet in practiſe, and almoſt in profeſſion too. The Apoſtle's <hi>Omnia licent</hi> every man taketh by the end: but his <hi>Non expediunt</hi> no man looketh after. Every man eateth, drinketh, playeth, apparelleth him<g ref="char:EOLhyphen"/>ſelf as he liſteth, ſaith and doeth what he liſteth, with<g ref="char:EOLhyphen"/>out any regard of God or his weak brother. And that which me thinketh is ſtrange, all this irregularitie ſhrowdeth it ſelf under the protection of Chriſtian li<g ref="char:EOLhyphen"/>bertie.</p>
+            <p>Why I, you ſay, is it not a part of our Chriſtian libertie, to uſe without ſcruple of conſcience in<g ref="char:EOLhyphen"/>different things? I grant it is: but how? to uſe them as we liſt our ſelves, without all regard to the glory of God, or the good of our brethren? God forbid that any man ſhould once dream, that Chriſt hath made ſuch a purchaſe for us. To uſe them, there is our li<g ref="char:EOLhyphen"/>bertie; and this libertie is rather in the conſcience, then in the outward act: but to uſe them as we liſt our ſelves, without any regard to God and to our bre<g ref="char:EOLhyphen"/>thren; this is more then libertie, more then Chriſtian,
+<pb n="9" facs="tcp:34655:7"/> yea more then Civil. For even the Civilians them<g ref="char:EOLhyphen"/>ſelves (if I be not deceived) do define their libertie thus, <hi>Libertie</hi> (ſay they) <hi>is a naturall power, whereby a man doeth what he will, ſo farre as the laws do permit.</hi> And ſo, <hi>Chriſtian liberty is a ſupernaturall power obtained by Chriſt, whereby a Chriſtian doth what he will, according to his Chriſtian rule,</hi> or, <hi>according to the rule of Gods word.</hi> We muſt therefore, by this doctrine, learn to abhorre that abuſe of libertie, and unrulineſſe, which we ſee to be afoot in theſe dayes, even amongſt Chriſtians themſelves.</p>
+            <p>On the other ſide, this doctrine muſt teach us, for <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> our part (whatſoever others do) to draw our ſelves un<g ref="char:EOLhyphen"/>der a rule, and to ſubmit and ſubject our ſelves there<g ref="char:EOLhyphen"/>unto in all that we do. Every Chriſtian is a builder: and every builder (we know) goeth by a rule: no ma<g ref="char:EOLhyphen"/>ſon, no carpenter works without his rule: and if he ſhould, what manner of work would he make? The obedient and truly regular Rechabites did keep the rule of their father Jonadab: and not onely they ſhall riſe up in judgement againſt us, if we will not keep the rule of the Apoſtle; but even their apes and counter<g ref="char:EOLhyphen"/>feits, the obſervers of the rules of Dominick and Francis, and the reſt of them. For ſhall an hypocrite in a cowl obſerve the rule of one like unto himſelf, and ſhall not we obſerve the rule of him that hath made and redeemed us? For the rule of the Apoſtle is Chriſt's rule: and we may not nor cannot, without great and damnable diſobedience, refuſe it.</p>
+            <p>Well then, you ſay, if we muſt be tied to a rule, let us ſee what that rule is. That we ſhall ſee by and by. In the mean while underſtand that we muſt take heed
+<pb n="10" facs="tcp:34655:8"/> of thoſe crooked and perverſe rules that moſt men do follow. The example of the multitude, a fooliſh rule: you know how God forbids it unto us. The faſhion of the world, that is, of the time and age wherein we live; a dangerous rule: the Apoſtle gives us a great charge that we cut not out our converſation after the pattern thereof.<note place="margin">Nè vos configura<g ref="char:EOLhyphen"/>te ſeculo i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i; <hi>Rom. 12.2.</hi>
+               </note> The profits and pleaſures of this life ſeem golden rules to ſome: but indeed they are naugh<g ref="char:EOLhyphen"/>ty rules, and the latter of them fitter for beaſts then for men.<note place="margin">Arbitria Judicum, Reſponſa prudentum</note> Nay, I go further, <hi>the decrees of civill Judges,</hi> and <hi>maxims of wiſemen,</hi> which the States-men and Politicians tell us are the grounds of all laws, and muſt over-rule all; yet even theſe are no ſufficient rules for a Chriſtian, no rules in conſcience: for theſe rules may be bent, and are bent oftentimes to ſerve the wills and pleaſures of men. But we muſt have ſuch a rule as may be without all exception and variation: a rule that muſt be, as ſome learned ſpeak in the terms of the Schools, <hi>inobliquabilis &amp; indeviabilis:</hi> a rule that no good man dare, nor no wicked man can bend to his pri<g ref="char:EOLhyphen"/>vate affection.</p>
+            <p>Well then, what is this rule? The Apoſtle tells us, it is this, even <hi>to do all to the glory of God, and the good of our neighbour.</hi> This muſt be the continuall and per<g ref="char:EOLhyphen"/>petuall end of all our actions. And as in ſhooting a man takes his aim and levell from his mark: ſo a Chri<g ref="char:EOLhyphen"/>ſtian in doing muſt be ruled by this end.</p>
+            <p>Indeed not onely from the end or object is an action alwayes conſtrued to be good; the integrity or recti<g ref="char:EOLhyphen"/>tude of other circumſtances muſt concurre withall: but chiefly the end makes or marres all. And though a good end doth not wholly warrant an action to be
+<pb n="11" facs="tcp:34655:8"/> good: yet an ill end doth ever vitiate and corrupt it. As for example; What action can be better then that which now we are in hand with, namely, the hearing and ſpeaking of the word of God? and yet (God be mercifull unto us) how fowly doth an ill end ofttimes corrupt it? If then we will have our actions ſound and good indeed, we muſt take heed we do them to a good end; be ſure of this, that the end be good.</p>
+            <p>This end, as the Apoſtle here propoundeth it, is double: one principall, and that is <hi>the glory of God;</hi> the other ſecondary or ſubordinate, and that is <hi>the edi<g ref="char:EOLhyphen"/>fication of our brethren.</hi>
+            </p>
+            <p>Firſt and principally do all to the glory of God. To this end our Saviour ſpeaketh when he ſaith,<note place="margin">
+                  <hi>Matth.</hi> 5.16.</note> 
+               <hi>Let your light ſo ſhine before men, that they may ſee your good works, and glorifie your Father which is in Heaven.</hi> To this end David exhorteth the men of his time,<note place="margin">
+                  <hi>Pſal.</hi> 29.2.</note> 
+               <hi>to give unto the Lord the glory due unto his name.</hi> But I will not ſtand to heap up Scriptures to this purpoſe: let us ſee what the thing is which the Apoſtle calleth <hi>the glory of God.</hi>
+            </p>
+            <p>Glory is well defined by a heathen writer thus;<note place="margin">Frequens de aliquo fama cum laude. <hi>Wilſon dict.</hi>
+               </note> It is (ſaith he) <hi>a frequent fame or good report of a man with praiſe:</hi> By a Chriſtian writer thus; <hi>It is praiſe increa<g ref="char:EOLhyphen"/>ſed, and abundantly publiſhed.</hi> Then to do a thing to the glory of God, is to do it ſo, as from thence God may be much and honourably ſpoken of, the prayſe of God may be increaſed and abundantly publiſhed. When the wiſdome, the mercy, the juſtice, the good<g ref="char:EOLhyphen"/>neſſe of God do ſhine in our actions, and we do them to this end; then they are done to the glory of God. So by occaſion of thoſe works that our Saviour Chriſt
+<pb n="12" facs="tcp:34655:9"/> did,<note place="margin">
+                  <hi>Matth.</hi> 9.8.</note> the Evangeliſt ſaith, that the people <hi>did glorifie God,</hi> that is, did ſpeak great and glorious things of God.<note place="margin">
+                  <hi>Gal.</hi> 1.24.</note> And Paul, after his converſion and calling into the Miniſtery, did all things ſo as the people <hi>did glorifie God in him,</hi> or <hi>for him.</hi> So here, <hi>Do all things to the glo<g ref="char:EOLhyphen"/>ry of God,</hi> that is, do all things ſo, as from every thing that you do men may take occaſion to praiſe and ma<g ref="char:EOLhyphen"/>gnifie the name of God.</p>
+            <p>This doing of things to the glory of God is the matter of the firſt petition in the Lords prayer, and of the third commandment in the Decalogue: from which two places they that will may fetch matter enough to this argument.</p>
+            <p>But foraſmuch as our failing in this rule ariſeth not ſo much from our ignorance in the rule, as from our want of affection to the rule: let us therefore conſider a little of ſome good and weighty reaſons that may ſtirre and move us to the practiſe of it.</p>
+            <p>And firſt, let me reaſon from the end of our creati<g ref="char:EOLhyphen"/>on.<note place="margin">
+                  <hi>Prov.</hi> 16.4.</note> 
+               <hi>The Lord</hi> (ſaith the Scripture) <hi>hath made all things for himſelf:</hi> that is, for his own glory. From hence I reaſon thus: That end which God reſpected in ma<g ref="char:EOLhyphen"/>king of man, ought man to reſpect in all his actions: But God in making of man reſpected his own glory: Therefore the glory of God ought to be the end of all our actions. Elſe we ſhall divert and turn, not one<g ref="char:EOLhyphen"/>ly our own actions, but alſo the very workmanſhip of God in us, to another end then he that made us meant and intended. Which if a man himſelf will account a great wrong in the work of his hands: how much more ſhall it be a ſinne and preſumption againſt the glorious and omnipotent Architect of all the world!</p>
+            <pb n="13" facs="tcp:34655:9"/>
+            <p>A ſecond reaſon may be taken from the merit and deſerving of God in our creation and all that he hath done for us. Glory, that is fame and renown, alwayes followeth merit and deſerving; but all worthineſſe and true deſerving is in God.<note place="margin">Eſt fama multorum magno<g ref="char:EOLhyphen"/>rúmque merito<g ref="char:EOLhyphen"/>rum, <hi>Cic.</hi>
+               </note> No man doth abſolute<g ref="char:EOLhyphen"/>ly deſerve any thing at the hands of another man; be<g ref="char:EOLhyphen"/>cauſe every man is bound by ſome debt or dutie one to another. Onely God, who is the great and free-giving God, doth deſerve at our hands: And there<g ref="char:EOLhyphen"/>fore all glory is due unto him: and ſo due, that a learned and wittie Divine ſaith,<note place="margin">Ejus omni<g ref="char:EOLhyphen"/>tatem, no<g ref="char:EOLhyphen"/>ſtram nul<g ref="char:EOLhyphen"/>litatem, <hi>Alſted.</hi>
+               </note> we muſt acknowledge <hi>all to him, and nothing to our ſelves.</hi> And this the foure and twenty Elders (who are the common type of all the holy aſſemblies here upon earth) do teach us, when they fall down before him that ſat on the throne, and caſt their crowns before the throne, and give this reaſon thereof, <hi>Thou art worthy, O Lord,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 4.11.</note> 
+               <hi>to receive glory: — for thou haſt created all things, and for thy pleaſure they are, and were created.</hi> He that hath made all, and beſtoweth freely and liberally all gifts of creation and preſervation upon all: is he not wor<g ref="char:EOLhyphen"/>thy to have glory at the hands of all? It is the Apo<g ref="char:EOLhyphen"/>ſtle's reaſon in another place:<note place="margin">1. <hi>Cor.</hi> 6.20.</note> 
+               <hi>Glorifie God in your bo<g ref="char:EOLhyphen"/>dies and ſouls; for they are Gods.</hi> And indeed, is it much for us to eat and drink to his glory, of whoſe liberalitie we have every bit of bread and every drop of drink that we have? Or is it much for us to appa<g ref="char:EOLhyphen"/>rell our ſelves to his glory, without whom we have not ſo much as a fig-leaf to hide our nakedneſſe? It were infinite to follow this argument in all the parti<g ref="char:EOLhyphen"/>culars: I come therefore to a third reaſon, and that is this;</p>
+            <pb n="14" facs="tcp:34655:10"/>
+            <p>The example of all the beſt and moſt excellent ſer<g ref="char:EOLhyphen"/>vants of God in all ages doth provoke us hereunto: whoſe hearts have been ſo fired with the zeal of Gods glory, that, to the end they might promote that, they have utterly neglected themſelves. David was even <hi>devoured</hi> and <hi>eaten up</hi> with it: Moſes and Paul prefer<g ref="char:EOLhyphen"/>red it to their own <hi>ſalvation:</hi> the holy Martyrs gave their <hi>lives,</hi> and endured all <hi>torments,</hi> that God might be glorified by them. How miſerable and wretched are we, and how nothing akinne to thoſe holy ſer<g ref="char:EOLhyphen"/>vants of God, if we will not ſo much as bridle an in<g ref="char:EOLhyphen"/>ordinate deſire, not abſtain from a libertie or commo<g ref="char:EOLhyphen"/>ditie which we may ſpare well enough, not forgo a whit of our vain pleaſures and delights of this life, for the honouring and glorifying of the name of our God! Surely great reaſon there is, that we ſhould admit of this rule, and willingly let the glory of God be the end of all our actions.</p>
+            <p>But (beloved brethren) is it thus with us? Give me leave to deal plainly and roundly in a matter of ſo great reſpect. Yet will I ſay nothing of open and no<g ref="char:EOLhyphen"/>torious wicked perſons, Atheiſts, Epicures, Drunkards, Whores, Thieves, Uſurers, Cozeners, the Foxes and Wolves,<note place="margin">Quibus a<g ref="char:EOLhyphen"/>nima data eſt proſale, nè putre<g ref="char:EOLhyphen"/>ſcant. <hi>Cic.</hi>
+               </note> the Horſes and Mules, the Dogs and Swine of the time, who would rot and ſtink as they go, if they had not a reaſonable ſoul in them, to keep them from putrefaction. The lives and actions of theſe are not in derogation of Gods glory, but in a mere oppo<g ref="char:EOLhyphen"/>ſition and contradiction to it. I come to others who ſeem to have ſome fear of God in them, and I hope have ſo too; and yet are in nothing ſtudious of the glory of God as they ſhould be. For tell me I pray
+<pb n="15" facs="tcp:34655:10"/> you, Our immoderate purchaſes and bottomleſſe co<g ref="char:EOLhyphen"/>vetouſneſſe, our heaping of livings and poſſeſſions one upon another, as the old giants are ſaid to have heaped mountains one upon another; are theſe things to the glory of God? Is it glorious to God, that they who profeſſe to be his children, ſhould be ſhifters and car<g ref="char:EOLhyphen"/>vers for themſelves, lifting, heaving, and ſhoving for the world (as M<hi rend="sup">r</hi> Perkins ſaith) as if they had no Fa<g ref="char:EOLhyphen"/>ther in Heaven, nor no Divine providence to truſt un<g ref="char:EOLhyphen"/>to? and then for a cover of their worldlineſſe do mock God, and ſay, O we muſt have a care, <hi>&amp;c.</hi> Is it a glory to God that it ſhall be ſpoken and written of Turks, that they are honeſt, juſt, plain-dealing men, and true of their word: and we, who are the ſervants not of Mahomet but of Jeſus Chriſt and of him are called Chriſtians, dare not truſt one another? The proud and loftie carriage of the rich, gaping over the heads of the poore; (as the Prophet ſpeaketh;) and, on the other ſide, the rude and inſolent behaviour of the poore, the vile riſing up oftentimes againſt the honou<g ref="char:EOLhyphen"/>rable: is it to the glory of God? Come we to our meetings and merriments, our carnall rejoycings,<note place="margin">Deus bo<g ref="char:EOLhyphen"/>ne, quae ſunt noſtra gaudia! quae ſunt noſtra prandia! Curios ſi<g ref="char:EOLhyphen"/>mulamus, &amp; Baccha<g ref="char:EOLhyphen"/>nalia vivi<g ref="char:EOLhyphen"/>mus, <hi>Muſc.</hi>
+               </note> our eating and drinking like Epicures, when we profeſſe Chriſtians: can God be glorified by ſuch irreligious behaviour? Our babiſh and gawdy attire in our appa<g ref="char:EOLhyphen"/>rell, being ſick of ſome phantaſticall faſhion to day, and full and weary of it to morrow, putting all work<g ref="char:EOLhyphen"/>men to their wits end to follow the oft-turning wea<g ref="char:EOLhyphen"/>thercock of our reſtleſſe and unchangable phantaſies: Our idle paſtimes, not as a parentheſis to the period of our labours, but our labour a poore and ſhort paren<g ref="char:EOLhyphen"/>theſis to the large and long leaves of our paſtimes:
+<pb n="16" facs="tcp:34655:11"/> Our unbrotherly contentions, filling all the Courts and Conſiſtories in the kingdome, and ſetting every day a work ſuch ſwarms of attorneys and advocates as we do: are theſe things indeed, think you, to the glo<g ref="char:EOLhyphen"/>ry of God? And not to be infinite, though in a ſub<g ref="char:EOLhyphen"/>ject that will ſcarcely ſuffer me to find any end: Is it to the glory of God, that his great and Divine majeſtie ſhould be dallied withall in his moſt holy word: that men ſhall call for ſermons and erect exerciſes, with great ſhew of godlineſſe; and when all comes to all, the Miniſters and Preachers of the word ſhall be of no other uſe to a great many, but as minſtrels and pipers are, for their delight and pleaſure? as God ſaith to the Prophet,<note place="margin">
+                  <hi>Ezek.</hi> 33.32.</note> 
+               <hi>Thou art unto them as a very lovely ſong of one that hath a pleaſant voice —: for they heare thy words but they do them not.</hi> Alas, theſe words of the Apo<g ref="char:EOLhyphen"/>ſtle, willing us to do all to the glory of God, do even ſhame and confound us. Our own glory is aloft, but the glory of God is under foot everywhere: and, as if there were no danger to be competitours and corri<g ref="char:EOLhyphen"/>vals with God in a thing ſo precious unto him, we de<g ref="char:EOLhyphen"/>veſt him daily of his glory, to inveſt our ſelves. Well, let this Scripture a little ſchool us, let us re<g ref="char:EOLhyphen"/>member that if we be as we ſhould be,<note place="margin">Plantatio Domini, ad glorifican<g ref="char:EOLhyphen"/>dum eum, <hi>Iſai.</hi> 61.3.</note> we are his workmanſhip, formed and <hi>planted by him to the praiſe of his glory.</hi> And he is worthy of all our labour and en<g ref="char:EOLhyphen"/>deavour that can be employed that way.</p>
+            <p>But I ſhall not reach my project, if I come not to the ſecond part of the rule, namely the end of our actions in reſpect of our brethren. And that muſt be <hi>to edifie them.</hi> As God muſt be <hi>glorified,</hi> ſo our bre<g ref="char:EOLhyphen"/>thren muſt be <hi>edified</hi> in all that we do.</p>
+            <pb n="17" facs="tcp:34655:11"/>
+            <p>To edifie, is to build up. And all men are builders, but ſome men do build the wrong way. For even he that gives an offence to his brother, doth build him up ſome way: he deſtroyes him and pulls him down in goodneſſe,<note place="margin">Scandalum eſt aedifi<g ref="char:EOLhyphen"/>catio ad delictum; <hi>Tertull.</hi>
+               </note> but he builds him up and ſets him forward in evil. Take heed, ſaith the Apoſtle, that you do not ſo build up one another, <hi>Give no offence to any man.</hi>
+            </p>
+            <p>There be two words about this matter, differing in ſound, but in ſenſe and uſe, I think, all one. <hi>Scandall</hi> is one, and <hi>Offence</hi> is the other.</p>
+            <p>
+               <hi>Scandalum</hi> is properly and literally <hi>tigillum,</hi> the bridge of a trap, which is ſet for a mouſe or ſuch other creature: which as ſoon as the unhappy creature toucheth, the trap falls and the poore beaſt is taken. Spiritually and Metaphorically, a ſcandall is any word or act ſaid or done by one man, which falls out to the hurt and deſtruction of another man in the caſe of conſcience and religion.</p>
+            <p>
+               <hi>Offendiculum,</hi> the word that the Apoſtle uſeth here, is a block or ſtone in a mans way, whereupon he ſtum<g ref="char:EOLhyphen"/>bleth: either out of ignorance, as a blind man doth; or of weakneſſe, as aged and infirm perſons do. In re<g ref="char:EOLhyphen"/>ligious uſe it is every occaſion of ſinne that one man gives to another, either by falſe doctrine or bad exam<g ref="char:EOLhyphen"/>ple. And this latter is often in the uſe of indifferent things. The poore, blind, ignorant, weak Chriſtian goes on pretily well and cheerfully in the way of god<g ref="char:EOLhyphen"/>lineſſe, till he comes to ſuch a block or trap: there he ſtumbles, there he is taken; either to his utter deſtru<g ref="char:EOLhyphen"/>ction, or to his great hindrance in the way to eternall life.</p>
+            <p>Such a ſtumbling-block was the eating of meats ſa<g ref="char:EOLhyphen"/>crificed
+<pb n="18" facs="tcp:34655:12"/> to idoles among the Corinthians. By which act, indiſcreetly and uncharitably done of ſome, three ſorts of men were offended.</p>
+            <p>Firſt, the unbelieving Jews, ſeeing the Chriſtians to eat of things offered to idoles, which they juſtly and by the law of God deteſted; they by this thought the worſe of Chriſtian religion, and were ſet the further off from it: as the Turks and Jews at this day are of<g ref="char:EOLhyphen"/>fended and ſet off from our religion by the idoles and images of the Papiſts.</p>
+            <p>Secondly, the Grecians, that is, the unconverted Gentiles, theſe were offended likewiſe, though not grieved. For they thought the better of their own heatheniſh and idolatrous religion, becauſe the Chri<g ref="char:EOLhyphen"/>ſtians did partake with them in their ſacrifices; and ſo were hardened in their ſuperſtition.</p>
+            <p>Thirdly, weak Chriſtians, ignorant as yet of the Chriſtian libertie under the Goſpel, and holding it in conſcience a ſinne to eat of ſuch things; yet were drawn on by example of others to eat againſt their conſcience, and ſo were made guilty of ſinne.</p>
+            <p>Thus it was amongſt the Corinthians in this matter of idolothytes, or things ſacrificed to idoles: which, out of the caſe of ſcandall or offence might lawfully have been uſed of them; but, in the caſe of offence to a weak brother, was a ſinne and offence againſt God alſo. And the like evil (as I think) falleth out amongſt us at this day, by the daily abuſe of our Chriſtian li<g ref="char:EOLhyphen"/>bertie in other things. For,</p>
+            <p>Firſt, the Papiſts ſeeing how looſe and lawleſſe we are in many things, they, though well enough pleaſed, yet are truly offended, thinking all our religion no<g ref="char:EOLhyphen"/>thing
+<pb n="19" facs="tcp:34655:12"/> but a carnall liberty; and are ready upon every occaſion to blaſpheme and ſay, Behold the fruits of your Goſpel! So they are utterly ſet off by this block.</p>
+            <p>Secondly, the carnall Proteſtants, uſurers, proud and covetous perſons, they are hardened in their ſinnes by the example of our ſeeming beſt profeſſours. Be<g ref="char:EOLhyphen"/>hold, ſay they, theſe that profeſſe moſt are as deep in theſe things as we: they think to go to heaven for all this; and why ſhould not we?</p>
+            <p>Thirdly, weak and ignorant Chriſtians, who for the moſt part do not inwardly conſider the nature of things, nor examine the reaſons of their actions, but are carried wholly by example; they ſtumble and fall everywhere, thinking they may ſafely do as others do, yea though they do things whereof their conſci<g ref="char:EOLhyphen"/>ence doth accuſe and condemn them.</p>
+            <p>To remedie this great evil there is no way, but to liſten to the counſel and look to this rule of the Apo<g ref="char:EOLhyphen"/>ſtle; <hi>Give no offence,</hi> ſet no traps, lay no blocks in any mans way. Let this be a part of your Chriſtian rule, which God himſelf hath here conjoyned, and there<g ref="char:EOLhyphen"/>fore muſt be obſerved with the reſpect of his own glory.</p>
+            <p>The doctrine of offences in this ſcandalizing and ſcandalized age, were neceſſary to be better known then it is. But every man cannot ſail through a ſea of ſo many and ſuch intricate queſtions. At this time it ſhall be enough for me, to deliver unto you one point of doctrine, which (as I think) doth natu<g ref="char:EOLhyphen"/>rally and neceſſarily ariſe out of this Scripture. And that is this, That how lawfull ſoever a thing be in
+<pb n="20" facs="tcp:34655:13"/> it ſelf, yet if I ſee that my uſing of it at this time, and in this manner, is like to be a ſnare, a trap, or a ſtumbling-block to my brother: that is, there is dan<g ref="char:EOLhyphen"/>ger leſt by this means my brother either fall away ut<g ref="char:EOLhyphen"/>terly from religion, or if not ſo, yet fall into ſome ſinne for the preſent, which, for ought I know, may be deadly unto him: or if not ſo, yet the good opi<g ref="char:EOLhyphen"/>nion which he had of me, as of a Chriſtian and fellow-member, is diminiſhed; and ſo, whereas before he went the more cheerfully towards heaven for my company, he goeth now for this act of mine the more ſadly and heavily: In this caſe, how lawfull ſo<g ref="char:EOLhyphen"/>ever the act be in it ſelf, by all other laws of God and men; yet now by the law of charitie and by this rule of the Apoſtle, it becometh unlawfull to me, and I ought not to do it. I ſay, in all indifferent things which are in our own power, where our liberty is not juſtly reſtrained and limited by a ſuperiour authoritie; there a Chriſtian muſt walk by this rule, He muſt give no offence in any thing that he doth. But you will ſay, the action is lawfull; why then may I not do it? The Apoſtle telleth thee, thou muſt firſt ſee how it will fall out to thy brother: the iſſue or event may be evil to ſome weak brother, though the action be not ill in it ſelf. I, but I will uſe my liberty, whatſo<g ref="char:EOLhyphen"/>ever becometh of my brother. I, but now walkeſt thou not charitably, ſaith the Apoſtle: deſtroy not him with thy meat, with thy pleaſure, with thy paſtime, with thy apparell, for whom Chriſt hath died. Cha<g ref="char:EOLhyphen"/>ritie muſt ever over-rule our liberty,<note place="margin">Charitati ſubjicienda libertas.</note> according to that of the Apoſtle, Gal. 5.13. <hi>Brethren, ye have been called unto libertie; onely uſe not libertie for an occaſion to the
+<pb n="21" facs="tcp:34655:13"/> fleſh, but by love ſerve one another.</hi> Upon which words that excellent ſervant of God M<hi rend="sup">r</hi> Calvin hath a ſay<g ref="char:EOLhyphen"/>ing worthy to be written in letters of gold,<note place="margin">Ubicunque regnat cha<g ref="char:EOLhyphen"/>ritas, illic mutua eſt ſervitus.</note> or rather in the heart of every Chriſtian. <hi>Whereſoever</hi> (ſaith he) <hi>Charitie beareth rule, there men are ſervants one to another.</hi>
+            </p>
+            <p>Now this doctrine being true as I make no queſti<g ref="char:EOLhyphen"/>on but it is; it doth firſt ſhew us how uncharitable moſt men are, who look no further then to themſelves in any thing. So they may have their profits, their pleaſures; let other men ſtand or ſtumble, ſink or ſwim, they care not. This is no leſſe ſinne, then to deſtroy a brother. For though a brother periſh not alwayes in this caſe, yet no thank to him by whom the block was laid.</p>
+            <p>Secondly, let this perſwade good Chriſtians to make conſcience of this part of the rule, as well as of the former: to do all things, as to <hi>the glory of God,</hi> ſo to <hi>the edification of our brethren.</hi> And remember that that which was ſo dear and precious to Chriſt, cannot be vile to any true Chriſtian. And to have a tender care of our brethren, eſpecially of our weak brethren, who are Chriſt's <hi>little ones,</hi> is a ſweet fruit of our love to Chriſt, and a ſure token of his Spirit dwelling in us.</p>
+            <p>Thus we ſee what our Chriſtian rule is:<note place="margin">Deum i<g ref="char:EOLhyphen"/>gnominiâ afficit, gra<g ref="char:EOLhyphen"/>tiâ excidit, &amp; reus fit irae Divi<g ref="char:EOLhyphen"/>nae, donce reſipuerit, <hi>Hemming. in locum.</hi>
+               </note> and let him that refuſeth to ſubmit himſelf to this rule, heare how a learned man and a great Divine cenſureth him: <hi>He diſhonoureth God, he falleth</hi> (in ſome ſort) <hi>from grace, and is made ſubject to the wrath of God, till he repent.</hi>
+            </p>
+            <p>Now to this rule the Apoſtle adjoyneth an exam<g ref="char:EOLhyphen"/>ple, even his own: <hi>Even as I do in all things.</hi> It were
+<pb n="22" facs="tcp:34655:14"/> worth our time and attendance (if time would ſuffer us any longer to attend) to ſee how wiſe, how cha<g ref="char:EOLhyphen"/>ritable, how conſcionable the Apoſtle was ever in all his carriage and behaviour towards others in this re<g ref="char:EOLhyphen"/>ſpect: alwayes binding himſelf to his own rule, and preferring the good of others before his own liberty or commoditie in every thing. But to end with the time, to what purpoſe ſerve examples, but to be fol<g ref="char:EOLhyphen"/>lowed? And if neither rule nor example will hold us to our Chriſtian dutie; we muſt look for our reward with libertines and lawleſſe hypo<g ref="char:EOLhyphen"/>crites at the hands of a juſt and righteous God.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34655:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
